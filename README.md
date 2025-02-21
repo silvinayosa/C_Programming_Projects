@@ -7,9 +7,7 @@ Each folder contains C programs categorized by topic.
 
 ## 🔹 [Hashing](Hashing/)
 
-Implements hash tables using various hashing techniques.
-
-Handles collision resolution with methods like chaining.
+Implements hash tables.
 
 Example: [Hash Table Implementation](Hashing/hash_table.c)
 
@@ -23,15 +21,13 @@ Example: [Polynomial Addition](Math_Computation/polynomial_addition.c)
 
 ## 🔹 [Sorting](Sorting/)
 
-Classic sorting algorithms like Heap Sort, Quick Sort, etc.
-
-Demonstrates efficient sorting techniques with C.
+Classic sorting algorithms.
 
 Example: [Heapsort Implementation](Sorting/heapsort.c)
 
 ## 🔹 [String Processing](String_Processing/)
 
-String manipulation programs such as word replacement, comparison, and shifting.
+String manipulation programs such as word replacement.
 
 Example: [String Replacement](String_Processing/string_replace.c)
 
