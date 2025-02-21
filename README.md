@@ -11,7 +11,7 @@ Implements hash tables using various hashing techniques.
 
 Handles collision resolution with methods like chaining.
 
-Example: hash_table.c
+Example: [Hash Table Implementation](Hashing/hash_table.c)
 
 ## 🔹 [Math Computation](Math_Computation/)
 
